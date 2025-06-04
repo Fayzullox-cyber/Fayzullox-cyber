@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Fayzullox
+# 👋 Hello, I'm Fayzik
 [![GitHub followers](https://img.shields.io/github/followers/Fayzullox-cyber?style=social)](https://github.com/Fayzullox-cyber)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/AbbosUbaydullaev/)
 <a href="https://user-badge.committers.top/uzbekistan/Fayzullox-cyber">
